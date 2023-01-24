@@ -4,10 +4,16 @@ The accelerated way to get started with Infrastructure as Code (IaC) for the Pow
 
 Through the Push/Pull workflows, we enable a GitOps style management of Power Platform, but also enable interoperability with your preferred client such Admin Center, PS or CLI, still maintaining the source of truth for all artifacts in Git.
 
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/16622613/182624806-3ce7db18-db4c-477d-811e-efbc28a1d301.png">
+
+Example of Power Platform artifacts and resources represented in a folder structure as pulled back by PowerOps. 
+
+![](./media/repo_structure.png)
+
 This repository contains scripts, starter pipelines and instructions on how to get started with PowerOps on GitLab.
 *Note that the pipelines have only been validated in GitLab cloud.*
 
-<img width="574" alt="image" src="https://user-images.githubusercontent.com/16622613/182624806-3ce7db18-db4c-477d-811e-efbc28a1d301.png">
+
 
 ## Prerequisites
 
