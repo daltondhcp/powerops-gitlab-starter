@@ -82,6 +82,8 @@ The token will be used in the pipeline to interact with the GitLab APIs and the 
 ![](./media/gitlab_run_boostrap_1.png)
 ![](./media/gitlab_run_boostrap_2.png)
 
+After successful pipeline run, there will be a representation of the Power Platform artifacts in the repository. 
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
